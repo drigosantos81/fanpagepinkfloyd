@@ -58,3 +58,26 @@
     border-color: #007bff;
     text-decoration: none;
 }
+
+.profile {
+    background: #FFF;
+    box-shadow: 0 0 160px 0 rgba(242, 5, 68, 1);
+    border-radius: 60%;
+    padding: 2px;
+    width: 12%;
+}
+
+.link {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+/* Hover é para quando o mouse passar por cima*/
+.link:hover {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: yellow;
+    font-size: 25px;
+}
